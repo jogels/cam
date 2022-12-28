@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105132203631",
+    "project_id": "camhide-e7556",
+    "storage_bucket": "camhide-e7556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105132203631:android:354822a97e9dbd494ef79a",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105132203631-th09q1o9tmq6b2gtuf5j7k01p3i0fr3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsz8uyZGcsg3Y5RpEasW9jYjJP_oikyOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105132203631-th09q1o9tmq6b2gtuf5j7k01p3i0fr3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
